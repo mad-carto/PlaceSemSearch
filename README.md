@@ -1,18 +1,13 @@
-# SemantiPlace App
+# **SemantiPlace App**  
 
-This is a **Streamlit app** developed as part of the research article:
+Welcome to **SemantiPlace**, a **Streamlit-based application** developed as part of the research article:  
 
-> Gugulica & Burghardt (2025). Place-Based Semantic Search: A Framework for Inferring and Modeling Place Semantics from Geosocial Media Data.
+> **Gugulica & Burghardt (2025).** *Place-Based Semantic Search: A Framework for Inferring and Modeling Place Semantics from Geosocial Media Data.*  
 
-## 📌 About the Project
+## **About the Project**  
 
-This app demonstrates the **application of the methodology** presented in the research, enabling **place-based semantic search** from geosocial media data. The framework allows users to compute and analyze place semantics, offering new insights into how places are perceived and described through social media.
+**SemantiPlace** demonstrates the **practical application** of our research methodology, enabling **place-based semantic search** through geosocial media data. The framework allows users to **analyze and compare place semantics**, offering unique insights into how locations are perceived, described, and discussed on social media platforms such as **Twitter, Instagram, and Flickr**.  
 
-## 🚀 Features
+By leveraging **natural language processing (NLP)** and **geospatial analysis**, the app provides an interactive way to explore **semantic similarities between places**, helping researchers, urban planners, and location-based service providers gain deeper contextual understanding of geographic spaces.  
 
-- Process and visualize geosocial media data
-- Compute **place-based semantic similarity**
-- Showcase methodology developed in the research
-- Interactive **Streamlit dashboard** for exploration
-
-
+**Try it out here:** [SemantiPlace App](https://semantiplace.streamlit.app/) 🚀  
