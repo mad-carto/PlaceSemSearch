@@ -566,9 +566,9 @@ def visualize_similar_places_wordclouds(df, target_h3_index, top_similar_h3_df, 
 
 
 # Streamlit App
-st.set_page_config(page_title="Place-Based Semantic Search", layout="wide")
-st.title("Place-Based Semantic Search")
-st.subheader("Find similar places", divider='rainbow')
+st.set_page_config(page_title="SemantiPlace", layout="wide")
+st.title("SemantiPlace")
+st.subheader("Place-based semantic search", divider='rainbow')
 
 # Credits
 st.sidebar.markdown(
