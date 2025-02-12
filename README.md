@@ -1,4 +1,4 @@
-# Place-Based Semantic Search App
+# SemantiPlace App
 
 This is a **Streamlit app** developed as part of the research article:
 
